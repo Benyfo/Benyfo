@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **benyaminforooghi@gmail.com**
 
-<h3 align="left">Connect with me: **https://t.me/Benyfo**</h3>
+<h3 align="left">Connect with me: https://t.me/Benyfo</h3>
 <p align="left">
 </p>
 
