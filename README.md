@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Benyamin Foroughi</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning **ReactJs** & **NextJs**
 
 - 💬 Ask me about **React, Javascript, Html5 & CSS**
 
