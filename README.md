@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **ReactJs** & **NextJs**
 
-- 💬 Ask me about **React, Javascript, Html5 & CSS**
+- 💬 Ask me about **Next, React, Javascript, Html5 & CSS**
 
 - 📫 How to reach me **benyaminforooghi@gmail.com**
 
