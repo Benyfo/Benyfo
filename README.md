@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Benyamin Forooghi</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🌱 I’m currently learning **ReactJs** & **NextJs**
+- 🌱 I’m currently learning **NextJs**
 
-- 💬 Ask me about **Next, React, Javascript, Html5 & CSS**
+- 💬 Ask me about **Next, React, Javascript & Typescript, Html5 & CSS3**
 
 - 📫 How to reach me **benyaminforooghi@gmail.com**
 
