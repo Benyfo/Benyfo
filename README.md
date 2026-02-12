@@ -7,16 +7,15 @@
 
 - 📫 How to reach me **benyaminforooghi@gmail.com**
 
-<h3 align="left">Connect with me: 
-  <p align="left">
+<h3 align="left">Connect with me:
     <a href="https://t.me/Benyfo" target="blank">
       <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="https://t.me/Benyfo" height="30" width="40" />    
     </a>
     <a href="https://linkedin.com/in/www.linkedin.com/in/Benyfo" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/Benyfo" height="30" width="40" />
     </a>
-  </p>
 </h3>
+
 <p align="left">
 </p>
 
