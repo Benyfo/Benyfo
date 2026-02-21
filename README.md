@@ -15,11 +15,15 @@
 🚀 Deploying projects via **Vercel** with a focus on modern web standards and best practices.  
 🧩 Skilled in form management and data validation using **React Hook Form**, **Formik**, **Yup** — building powerful, fast, and reliable forms with an excellent user experience
 
+<div>
+    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="20" alt="JavaScript" />
+</div>
+
 ## 🚀 "Always curious, always learning — pushing myself to grow as a developer every day."
 
 <div>
     <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="20" alt="JavaScript" />
-    </div>
+</div>
     
 ##  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="45" />  ~ Tech Stack & Tools
 
