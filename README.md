@@ -117,4 +117,4 @@
 </div>
     
 <!-- wave effect -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
