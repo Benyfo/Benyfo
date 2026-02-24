@@ -6,7 +6,7 @@
 
  <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
-## 👦🏻 ~ About Me
+## 👦🏻 About Me
 
 💻 **Frontend Developer** specialized in building modern, scalable, and user-centric web applications using **React.js**, **Next.js**, and **TypeScript**.  
 🎨 Passionate about **UI/UX**, **responsive design**, and crafting clean, accessible, and performance-optimized interfaces.  
@@ -16,12 +16,12 @@
 🚀 Deploying projects via **Vercel** with a focus on modern web standards and best practices.  
 🧩 Skilled in form management and data validation using **React Hook Form**, **Formik**, **Yup** — building powerful, fast, and reliable forms with an excellent user experience
 
-## 🚀 "Always curious, always learning — pushing myself to grow as a developer every day."
+### 🚀 "Always curious, always learning — pushing myself to grow as a developer every day."
 
 
  <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
-## 🌐 ~ Socials
+## 🌐 Socials
 <p align="center">
   
   <a href="https://t.me/Benyfo?text=Hello%20Benyamin%2C%20I%20saw%20your%20GitHub%20profile%20and%20would%20like%20to%20discuss%20a%20project." target="_blank">
@@ -51,7 +51,7 @@
     <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 </div>
     
-##  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="45" />  ~ Tech Stack & Tools
+##  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="45" />  Tech Stack & Tools
 
 
 <table align="center" >
@@ -97,7 +97,7 @@
 </div>
 
 
-## <img src="https://static.vecteezy.com/system/resources/previews/016/833/872/non_2x/github-logo-git-hub-icon-on-white-background-free-vector.jpg" width="45" />  ~ GitHub Trophies & Stats
+## <img src="https://static.vecteezy.com/system/resources/previews/016/833/872/non_2x/github-logo-git-hub-icon-on-white-background-free-vector.jpg" width="45" />  GitHub Trophies & Stats
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Benyfo" height="150" alt="streak stats" />
