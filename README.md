@@ -3,9 +3,10 @@
 </div>
 
 # 👨‍💻 Benyamin's GitHub Profile
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="20" alt="JavaScript" />
 
-## 🚀 About Me
+ <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
+
+## 👦🏻 ~ About Me
 
 💻 **Frontend Developer** specialized in building modern, scalable, and user-centric web applications using **React.js**, **Next.js**, and **TypeScript**.  
 🎨 Passionate about **UI/UX**, **responsive design**, and crafting clean, accessible, and performance-optimized interfaces.  
@@ -15,14 +16,39 @@
 🚀 Deploying projects via **Vercel** with a focus on modern web standards and best practices.  
 🧩 Skilled in form management and data validation using **React Hook Form**, **Formik**, **Yup** — building powerful, fast, and reliable forms with an excellent user experience
 
-<div>
-    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="20" alt="JavaScript" />
-</div>
-
 ## 🚀 "Always curious, always learning — pushing myself to grow as a developer every day."
 
+
+ <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
+
+## 🌐 ~ Socials
+<p align="center">
+  
+  <a href="https://t.me/Benyfo?text=Hello%20Benyamin%2C%20I%20saw%20your%20GitHub%20profile%20and%20would%20like%20to%20discuss%20a%20project." target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" height="50" />
+</a>
+  &nbsp;&nbsp;
+  
+  <a href="https://linkedin.com/in/Benyfo" title="Linkedin">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="60" />
+  </a>
+  &nbsp;&nbsp;
+
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=benyaminforooghi@gmail.com&su=Project%20Inquiry&body=Hello%20Benyamin,">
+    <img src="https://skillicons.dev/icons?i=gmail" height="60" />
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://discordapp.com/users/benyfo" title="Discord">
+    <img src="https://skillicons.dev/icons?i=discord" height="60" />
+  </a>
+  &nbsp;&nbsp;
+
+</p>
+
+
 <div>
-    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="20" alt="JavaScript" />
+    <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 </div>
     
 ##  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="45" />  ~ Tech Stack & Tools
@@ -67,7 +93,7 @@
   </tr>
 </table>
 <div>
-    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="20" alt="JavaScript" />
+    <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 </div>
 
 
@@ -79,9 +105,16 @@
 
  <br /><br />
 <div>
-    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="20" alt="JavaScript" />
+    <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 </div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
+
+<div>
+    <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
+</div>
+    
+<!-- wave effect -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer"/>
