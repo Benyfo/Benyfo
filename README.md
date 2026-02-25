@@ -42,7 +42,6 @@
   <a href="https://discordapp.com/users/benyfo" title="Discord">
     <img src="https://skillicons.dev/icons?i=discord" height="60" />
   </a>
-  &nbsp;&nbsp;
 
 </p>
 
