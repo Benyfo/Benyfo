@@ -8,7 +8,7 @@
 
 ## 👦🏻 About Me
 
-💻 **Frontend Developer** specialized in building modern, scalable, and user-centric web applications using **React.js**, **Next.js**, and **TypeScript**.  
+💻 **Frontend Developer** specialized in building modern, scalable, and user-centric web applications using **React**, **Next.js**, and **TypeScript**.  
 🎨 Passionate about **UI/UX**, **responsive design**, and crafting clean, accessible, and performance-optimized interfaces.  
 ⚙️ Experienced with modern frameworks and tools like **Tailwind CSS**, **Shadcn/UI** and **Material UI (MUI)** , .... for rapid UI development.  
 📊 Skilled in **React Query** and **TanStack Table** for efficient state and data management.  
