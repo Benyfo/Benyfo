@@ -99,7 +99,7 @@
 ## <img src="https://static.vecteezy.com/system/resources/previews/016/833/872/non_2x/github-logo-git-hub-icon-on-white-background-free-vector.jpg" width="45" />  GitHub Trophies & Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Benyfo&v=2" height="150" alt="streak stats" />
+  <img src="https://streak-stats.demolab.com?user=Benyfo&v=5" height="150" alt="streak stats" />
 </div>
 
  <br /><br />
